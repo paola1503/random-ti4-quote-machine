@@ -1,0 +1,28 @@
+body, html{
+    background-image: url(bg.jpg);
+}
+
+#quote-box{
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 0.5%;
+    margin-top: 12%;
+}
+
+#text{
+    padding: 5vw;
+}
+
+.text-primary{
+    font-size: x-large;
+    font-family: 'Gemunu Libre', sans-serif;
+    color: black;
+}
+
+.text-right{
+    font-family: 'Roboto', sans-serif;
+    font-size: large;
+}
+
+#button{
+    padding-bottom: 2vw;
+}
